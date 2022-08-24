@@ -1,5 +1,11 @@
 ![](https://wes.io/dgAQ/content)
 
+# Updated by Luke Harby. Aug 2022. 
+
+See below for full details. I went through this excellent course from <a href="https://wesbos.com/courses">Wes Bos.</a>
+
+I decided to clone the repo, go through the course, and push the final code to my own repo for reference.  Original readme below. 
+
 # React For Beginners — [ReactForBeginners.com](https://ReactForBeginners.com)
 
 Starter files for the React For Beginners course. Come <a href="https://ReactForBeginners.com/">Learn React</a> with me!
